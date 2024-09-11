@@ -1,0 +1,7 @@
+C:\Users\USER\36. Wihdatul Maula  Zuhroida\36. Wihdatul Maula Zuhroida (1)\WIWID PESAN MAKANAN\WIWID PESAN MAKANAN\bin\Debug\WIWID PESAN MAKANAN.exe.config
+C:\Users\USER\36. Wihdatul Maula  Zuhroida\36. Wihdatul Maula Zuhroida (1)\WIWID PESAN MAKANAN\WIWID PESAN MAKANAN\bin\Debug\WIWID PESAN MAKANAN.exe
+C:\Users\USER\36. Wihdatul Maula  Zuhroida\36. Wihdatul Maula Zuhroida (1)\WIWID PESAN MAKANAN\WIWID PESAN MAKANAN\bin\Debug\WIWID PESAN MAKANAN.pdb
+C:\Users\USER\36. Wihdatul Maula  Zuhroida\36. Wihdatul Maula Zuhroida (1)\WIWID PESAN MAKANAN\WIWID PESAN MAKANAN\obj\Debug\WIWID PESAN MAKANAN.csproj.AssemblyReference.cache
+C:\Users\USER\36. Wihdatul Maula  Zuhroida\36. Wihdatul Maula Zuhroida (1)\WIWID PESAN MAKANAN\WIWID PESAN MAKANAN\obj\Debug\WIWID PESAN MAKANAN.csproj.CoreCompileInputs.cache
+C:\Users\USER\36. Wihdatul Maula  Zuhroida\36. Wihdatul Maula Zuhroida (1)\WIWID PESAN MAKANAN\WIWID PESAN MAKANAN\obj\Debug\WIWID PESAN MAKANAN.exe
+C:\Users\USER\36. Wihdatul Maula  Zuhroida\36. Wihdatul Maula Zuhroida (1)\WIWID PESAN MAKANAN\WIWID PESAN MAKANAN\obj\Debug\WIWID PESAN MAKANAN.pdb
